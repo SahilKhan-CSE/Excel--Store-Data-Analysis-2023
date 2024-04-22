@@ -21,6 +21,7 @@ The store owner wants an in-depth annual sales report for 2023 to facilitate cus
 
 Steps 
 
+
 🛠️Data Cleaning
 
 1. Examining all data points to ensure they address our business problems.

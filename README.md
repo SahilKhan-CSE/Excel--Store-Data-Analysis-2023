@@ -17,3 +17,13 @@ The store owner wants an in-depth annual sales report for 2023 to facilitate cus
 ➡️List top states contributing to the sales?
 
 ➡️Which channel is contributing to maximum sales?
+
+Steps 
+
+🛠️Data Cleaning
+
+1. Examining all data points to ensure they address our business problems.
+
+2. Apply filters to each column to identify any incorrect, missing, or null values.
+
+3. Convert 'M' and 'W' to 'Men' and 'Women' respectively to eliminate inconsistencies.

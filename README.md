@@ -20,6 +20,8 @@ The store owner wants an in-depth annual sales report for 2023 to facilitate cus
 
 
 
+
+
 Steps 
 
 

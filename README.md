@@ -38,3 +38,19 @@ Steps
 2. Monthly Analysis: Created a 'Month' column from dates for trend analysis.
 
 3. Highlighting: Enhanced visibility for newly added columns.
+   
+
+📈Data Analysis
+
+1. Monthly Sales Analysis: Develop a pivot table to analyze sales data by month, focusing on total expenditures and order counts.
+
+2. Gender Sales Analysis: Utilize a pivot table to compare spending patterns across genders.
+
+3. Order Status Review: Create a pivot table to categorize and quantify orders based on their current status.
+
+4. Top States by Sales: Use a pivot table to pinpoint the top five states by sales volume to enhance regional marketing strategies.
+
+5. Purchasing Patterns: Analyze purchasing frequency across age groups segmented by gender using a pivot table.
+
+6. Website Performance: Assess which website platforms are most effective in generating sales with a pivot table linking websites to order volumes.
+

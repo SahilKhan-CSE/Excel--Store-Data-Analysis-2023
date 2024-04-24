@@ -19,6 +19,7 @@ The store owner wants an in-depth annual sales report for 2023 to facilitate cus
 ➡️Which channel is contributing to maximum sales?
 
 
+
 Steps 
 
 
@@ -31,6 +32,7 @@ Steps
 3. Convert 'M' and 'W' to 'Men' and 'Women' respectively to eliminate inconsistencies.
    
 
+
 🧩Data Processing
 
 1. Age Segmentation: Added 'Age Group' to classify customers as 'Teenager', 'Adult', or 'Senior'.
@@ -39,6 +41,7 @@ Steps
 
 3. Highlighting: Enhanced visibility for newly added columns.
    
+
 
 📈Data Analysis
 

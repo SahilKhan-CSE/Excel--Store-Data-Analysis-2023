@@ -54,3 +54,9 @@ Steps
 
 6. Website Performance: Assess which website platforms are most effective in generating sales with a pivot table linking websites to order volumes.
 
+
+📊Data Visualization
+
+1. Comprehensive Charting- Develop charts and graphs to visually summarize key sales data points, such as Order vs. Sales, Top 5 States by Sales, Sales by Gender, Age vs. Gender Distribution, Delivery Status, and Top Performing Websites.
+
+2. Reporting- Compile the insights into a structured report, outline key findings, and recommend strategic actions to boost future sales.

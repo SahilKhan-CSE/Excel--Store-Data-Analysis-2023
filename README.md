@@ -41,7 +41,6 @@ Steps
 3. Highlighting: Enhanced visibility for newly added columns.
    
 
-
 📈Data Analysis
 
 1. Monthly Sales Analysis: Develop a pivot table to analyze sales data by month, focusing on total expenditures and order counts.
